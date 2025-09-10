@@ -63,9 +63,7 @@
    python3 -m pip install pipx
    ```
 
-2. **Add to Claude Desktop config**:
-   
-   File: `~/Library/Application Support/Claude/claude_desktop_config.json`
+2. **Add to MCP-compatible host config**:
    
    ```json
    {
@@ -95,7 +93,7 @@
    - Replace `your-workspace` with your Bitbucket workspace name
    - Replace `repo1,repo2,repo3` with your repository names
 
-4. **Restart Claude Desktop**
+4. **Restart MCP-compatible host**
 
 ## 🎛️ **Complete Control: Choose Your Review Workflow**
 
@@ -447,4 +445,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-**🛡️ Made for security-conscious developers, by security-conscious developers** 🚀
+**🛡️ Built by developer, for developers — the smart and secure choice for AI-powered reviews.** 🚀
