@@ -50,7 +50,7 @@
 - Python 3.11+
 - pipx
 - Bitbucket Cloud account with App Password
-- Claude Desktop
+- Claude Desktop, Cursor or any MCP-compatible host
 
 ### Installation
 
@@ -181,9 +181,9 @@
 2. **Done!** - All comments posted automatically
 
 #### **Traditional Workflow (with confirmation)**
-1. **List PRs**: Ask Claude to list available PRs
+1. **List PRs**: Ask AI assistant to list available PRs
 2. **Select PR**: Choose which PR to review
-3. **AI Analysis**: Claude analyzes the code and provides feedback
+3. **AI Analysis**:  The assistant analyzes the code and provides feedback
 4. **Preview Comments**: **You'll see exactly what comments will be posted** with severity breakdown
 5. **Confirm Posting**: **You must explicitly confirm** before any comments are posted
 6. **Comments Posted**: All comments are posted with `[AI - Review]` prefix
